@@ -1,0 +1,4 @@
+elevenlabs
+pyaudio
+pvporcupine
+python-dotenv
